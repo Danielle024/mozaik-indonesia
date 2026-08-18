@@ -75,7 +75,7 @@ const dictionaries = {
         { name: "Aditya Permana", role: "In-Collaborate", image: "/aditya.png", desc: "Fotografer profesional yang berfokus pada genre landscape, arsitektur, dan makro, dengan keahlian mengekspresikan emosi melalui setiap karyanya." },
         { name: "Afandi David Suharjo", role: "In-Collaborate", image: "/afandi.png", desc: "Fotografer landscape yang piawai mengabadikan keindahan alam untuk menyampaikan pesan ketenangan dan emosi sebagai media bercerita visual." },
         
-        { name: "Komang Arnawa", role: "In-Collaborate", image: "/Komang Arnawa.png", desc: "Fotografer berprestasi asal Bali yang aktif mengabadikan kehidupan tradisi dan menonjolkan keindahan detail artistik dari seni budaya Indonesia." }
+        { name: "Komang Arnawa", role: "In-Collaborate", image: "/Komang-Arnawa.png", desc: "Fotografer berprestasi asal Bali yang aktif mengabadikan kehidupan tradisi dan menonjolkan keindahan detail artistik dari seni budaya Indonesia." }
       ]
     },
     venue: {
@@ -192,7 +192,7 @@ const dictionaries = {
         { name: "Aditya Permana", role: "In-Collaborate", image: "/aditya.png", desc: "A professional photographer focusing on landscape, architecture, and macro genres, with expertise in expressing emotion through each of his works." },
         { name: "Afandi David Suharjo", role: "In-Collaborate", image: "/afandi.png", desc: "A landscape photographer skilled in capturing natural beauty to convey messages of tranquility and emotion as a visual storytelling medium." },
         
-        { name: "Komang Arnawa", role: "In-Collaborate", image: "/Komang Arnawa.png", desc: "An accomplished Balinese photographer actively capturing traditional life and highlighting the artistic details of Indonesian culture and arts." }
+        { name: "Komang Arnawa", role: "In-Collaborate", image: "/Komang-Arnawa.png", desc: "An accomplished Balinese photographer actively capturing traditional life and highlighting the artistic details of Indonesian culture and arts." }
       ]
     },
     venue: {
